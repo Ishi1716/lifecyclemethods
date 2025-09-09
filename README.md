@@ -157,17 +157,13 @@ public class MainActivity extends AppCompatActivity {
 <img width="442" height="897" alt="Screenshot 2025-09-09 142707" src="https://github.com/user-attachments/assets/72f53eaf-c4f4-482f-8663-d05e83d7e3dc" />
 
 
-
 <img width="508" height="957" alt="Screenshot 2025-09-09 142758" src="https://github.com/user-attachments/assets/a48c624d-e100-41b2-b4f5-4cd30c7ee94b" />
-
 
 
 <img width="471" height="929" alt="Screenshot 2025-09-09 143023" src="https://github.com/user-attachments/assets/f8e0e271-69be-45a1-8fdf-a0bcc6a5c496" />
 
 
-
 <img width="485" height="936" alt="Screenshot 2025-09-09 143112" src="https://github.com/user-attachments/assets/9614851e-c438-4466-a244-da8398c3ae32" />
-
 
 
 <img width="884" height="619" alt="Screenshot 2025-09-09 144250" src="https://github.com/user-attachments/assets/d6a84624-95d3-4f5e-91ef-27724c88f7e7" />
